@@ -40,7 +40,12 @@ import는 직접 작성하지 않고 **단축키**인 `ctrl + shift + o` 를 누
 |:---:|:---|
 |주사위|`1`부터 `6`개|
 |로또|`1`부터 `45`개|
-|두자리 정수|`10`부터 `90`개|
-자세한 설명은 [난수](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98)에서 확인할 수 있습니다
+|두자리 정수|`10`부터 `90`개|  
+
+자세한 설명은 [난수](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98)에서 확인할 수 있습니다  
 
 ![이미지가 엑박뜰 때 나오는 카지노이미지](https://img.freepik.com/free-vector/realistic-casino-gambling-illustration_52683-99917.jpg?size=626&ext=jpg&ga=GA1.1.1292351815.1710028800&semt=ais)
+
+
+오늘도 연봉이 10원 올랐습니다.
+![좋아 역시 최고야!](./.gif)
